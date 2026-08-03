@@ -3,7 +3,7 @@
 Most of my time right now goes into my computer science project. That’s been keeping me busy and pushing me to try new things.
 
 ## Collaboration (Im open)
-I’m open to collaborating on Godot-based project. If you’re building something interesting or experimenting with new ideas, I’m always happy to connect.
+I’m open to collaborating on Godot-based game/project. If you’re designing a game and need a developer to bring them to life, I’m always happy to connect.
 
 ## Languages
 I work with Godot and Python mainly but have some knowledge here and there.
