@@ -14,6 +14,16 @@ I work with Godot and Python mainly but have some knowledge here and there.
 - Javascript 15%
 
 
+## Programs 
+I mostly use built-in features in Godot but I dabble in external programs too.
+
+- Github
+- Affinity
+- Cavalry
+- Visual Studio Code
+- Godot Engine
+
+  
 ## Contacting me
 You can get in touch with me on my Instagram.
 - https://www.instagram.com/callum.morrice/?hl=en
