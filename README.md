@@ -1,6 +1,6 @@
 # Hi, I’m Callum!
 
-Most of my time right now goes into my computer science final project, but I'm open to start another project. That’s been keeping me busy for now.
+Most of my time right now goes into my computer science final project (but I'm open to start another project). That’s been keeping me busy for now.
 
 ## Collaboration (Im open)
 I’m open to collaborating on Godot-based game/project. If you’re designing a game and need a developer to bring them to life, I’m always happy to connect.
