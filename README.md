@@ -48,6 +48,17 @@ Some projects that I've worked on are:
 - VectorFall (2D top-down shooter)
 - 2DBackrooms (2D top-down backrooms game)
 
+## AI
+I have a very strong opinion when it comes to AI, my policies/beliefs are:
+
+- If you need AI to program you're not a real programmer.
+- If you use AI to generate art its okay if it is used as a placeholder for real art.
+- AI's place in game dev is automating annoying tasks (e.g. spawn rates and long dictionarys).
+
+###
+- I will never use AI to generate game code without careful consideration with the rest of the team.
+- Even if code is generated, I must look through the whole block for security vulnerabilities and quality control issues.
+
 ## Contacting me
 You can get in touch with me on my Instagram.
 - https://www.instagram.com/callum.morrice/?hl=en
