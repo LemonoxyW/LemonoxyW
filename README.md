@@ -104,6 +104,25 @@ Some genres I love / want to explore in game dev are:
 
 But I'm always open to trying new genres!
 
+# Education
+I'm currently studying at high school and have completed various online computer science courses:
+
+- Online Courses
+  - Mimo
+    - Python
+    - Javascript
+    - HTML
+  - W3 Schools
+    - Python
+    - HTML
+    - Intro To Programming
+    - Intro To HTML and CSS
+- In-person Courses
+  -  Computer Science 200
+  -  Information Processes 100
+  -  Software Engineering 400
+  -  Math Advanced 400
+
 # AI
 I have strong opinions about AI in development:
 
