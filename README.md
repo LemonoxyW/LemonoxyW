@@ -1,71 +1,79 @@
 # Hi, I’m Callum!
+Most of my time right now goes into my computer science final project (though I’m open to starting something new if the right idea comes along). It’s been keeping me busy and giving me plenty to experiment with.
 
-Most of my time right now goes into my computer science final project (but I'm open to start another project). That’s been keeping me busy for now.
-
-## Collaboration (Im open)
-I’m open to collaborating on Godot-based game/project. If you’re designing a game and need a developer to bring them to life, I’m always happy to connect.
+## Collaboration
+I’m open to collaborating on Godot‑based games or projects. If you’re designing a game and need a developer to bring ideas to life, I’m always happy to connect.
 
 ## Quality
-I pride myself on providing the most readable code for everyone involved.
-Some features I include are:
+I take pride in writing readable, maintainable code. Some things I focus on:
 
-- Comments
-- Clean Indentation
-- Proper naming conventions
+- Comments with intent
+
+- Clean indentation
+
+- Clear naming conventions
+
 - Thorough commit descriptions
-- Timelines for features
-- Team transperancy
 
+- Feature timelines
 
-If you want an example of my code, contact me and I am happy to send some over!
+- Team transparency
 
+If you want an example of my code, feel free to reach out - I’m happy to share.
 
-## Languages
-I work with Godot and Python mainly but have some knowledge here and there.
+# Languages
+I mainly work with Godot and Python, with some additional experience here and there.
 
-- GDScript 40%
-- Python 30%
-- HTML/CSS 15%
-- Javascript 15%
+- GDScript — 40%
 
+- Python — 30%
 
-## Programs 
-I mostly use built-in features in Godot but I'm well versed in external programs too.
+- HTML/CSS — 15%
 
-- Github
+- JavaScript — 15%
+
+# Programs
+I mostly rely on Godot’s built‑in tools, but I’m comfortable with external programs too:
+
+- GitHub
+
 - Affinity
+
 - Cavalry
+
 - Visual Studio Code
+
 - Godot Engine
 
+# Projects
+I’ve worked on a handful of practice projects — still waiting for the one I fully commit to. Some things I’ve built:
 
-## Projects
-I've worked on a couple projects for practice, I'm still yet to fully commit to a completed project.
-Some projects that I've worked on are:
+- Nullgate — 2D bullet‑hell roguelike
 
-- Nullgate (2D Bullet hell roguelike)
-- HorrorTreeGame (3D horror 8 pages style game)
-- VectorFall (2D top-down shooter)
-- 2DBackrooms (2D top-down backrooms game)
+- HorrorTreeGame — 3D horror, 8‑pages style
 
-## AI
-I have a very strong opinion when it comes to AI, my policies/beliefs are:
+- VectorFall — 2D top‑down shooter
 
-- If you need AI to program you're not a real programmer.
-- If you use AI to generate art its okay if it is used as a placeholder for real art.
-- AI's place in game dev is automating annoying tasks (e.g. spawn rates and long dictionarys).
+- 2DBackrooms — 2D top‑down backrooms game
 
-###
-- I will never use AI to generate game code without careful consideration with the rest of the team.
-- Even if code is generated, I must look through the whole block for security vulnerabilities and quality control issues.
+# AI
+I have strong opinions about AI in development:
 
-## Contacting me
-You can get in touch with me on my Instagram.
-- https://www.instagram.com/callum.morrice/?hl=en
+- If you rely on AI to program, you’re not really programming.
 
-## Pronouns
+- AI‑generated art is fine as a placeholder, not a final product.
+
+- AI’s place in game dev is automating annoying tasks (spawn rates, long dictionaries, etc.).
+
+I’ll never use AI to generate game code without careful discussion with the team.
+And even then, I review every line for security issues and quality control.
+
+# Contact
+You can reach me on Instagram:
+ - https://www.instagram.com/callum.morrice/?hl=en
+
+# Pronouns
 He/Him
 
-## Fun Fact
-I've been programming since I was 9! I only swapped to text based languages when I was 14 though.
-
+# Fun Fact
+I’ve been programming since I was 9 - only switched to text‑based languages at 14.
