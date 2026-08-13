@@ -2,7 +2,7 @@
 Most of my time right now goes into my computer science final project (though I’m open to starting something new if the right idea comes along). It’s been keeping me busy and giving me plenty to experiment with.
 
 ## Collaboration
-I’m open to collaborating on Godot‑based games or projects. If you’re designing a game and need a developer to bring ideas to life, I’m always happy to connect.
+I’m open to collaborating on Godot‑based games or projects. If you’re designing a game and need a developer to help out, I’m always happy to connect!
 
 ## Quality
 I take pride in writing readable, maintainable code. Some things I focus on:
@@ -24,13 +24,13 @@ If you want an example of my code, feel free to reach out - I’m happy to share
 # Languages
 I mainly work with Godot and Python, with some additional experience here and there.
 
-- GDScript — 40%
+- GDScript - 40%
 
-- Python — 30%
+- Python - 30%
 
-- HTML/CSS — 15%
+- HTML/CSS - 15%
 
-- JavaScript — 15%
+- JavaScript - 15%
 
 # Programs
 I mostly rely on Godot’s built‑in tools, but I’m comfortable with external programs too:
@@ -41,6 +41,8 @@ I mostly rely on Godot’s built‑in tools, but I’m comfortable with external
 
 - Cavalry
 
+- Blender
+
 - Visual Studio Code
 
 - Godot Engine
@@ -48,13 +50,33 @@ I mostly rely on Godot’s built‑in tools, but I’m comfortable with external
 # Projects
 I’ve worked on a handful of practice projects — still waiting for the one I fully commit to. Some things I’ve built:
 
-- Nullgate — 2D bullet‑hell roguelike
+- Nullgate - 2D bullet‑hell roguelike
 
-- HorrorTreeGame — 3D horror, 8‑pages style
+- HorrorTreeGame - 3D horror, 8‑pages style
 
-- VectorFall — 2D top‑down shooter
+- VectorFall - 2D top‑down shooter
 
-- 2DBackrooms — 2D top‑down backrooms game
+- 2DBackrooms - 2D top‑down backrooms game
+
+
+# Genres
+Some genres I love / want to explore in game dev are:
+
+- Roguelite
+
+- Dungeon Crawler
+
+- PSX Horror
+
+- Top Down Survival
+
+- Survival
+
+- Shooters
+
+- Strategy
+
+But I'm always open to trying new genres!
 
 # AI
 I have strong opinions about AI in development:
@@ -71,6 +93,12 @@ And even then, I review every line for security issues and quality control.
 # Contact
 You can reach me on Instagram:
  - https://www.instagram.com/callum.morrice/?hl=en
+
+or my email:
+- Lemonpez123@gmail.com
+
+or my discord:
+- lemonoxyw
 
 # Pronouns
 He/Him
