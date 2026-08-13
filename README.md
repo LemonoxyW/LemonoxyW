@@ -47,6 +47,11 @@ I mostly rely on Godot’s built‑in tools, but I’m comfortable with external
 
 - Godot Engine
 
+- Piskel
+
+- TrenchBroom
+
+And whenever I need custom software that doesn't exist, I just make it in python!
 # Skills
 Since I've started coding I've picked up some skills, I'm capable of:
 
