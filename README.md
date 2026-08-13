@@ -47,6 +47,23 @@ I mostly rely on Godot’s built‑in tools, but I’m comfortable with external
 
 - Godot Engine
 
+# Skills
+Since I've started coding I've picked up some skills, I'm capable of:
+
+- Full Multiplayer Networking
+
+- Multi Script Projects
+
+- State Machines
+  
+- Optimizing Code
+
+- Resource Data Management
+
+- Multi-Platform Export
+
+And I'm still learning more!
+
 # Projects
 I’ve worked on a handful of practice projects — still waiting for the one I fully commit to. Some things I’ve built:
 
@@ -57,6 +74,8 @@ I’ve worked on a handful of practice projects — still waiting for the one I 
 - VectorFall - 2D top‑down shooter
 
 - 2DBackrooms - 2D top‑down backrooms game
+
+- ShooterGame - 2D top-down LAN multiplayer shooter game
 
 
 # Genres
@@ -75,6 +94,8 @@ Some genres I love / want to explore in game dev are:
 - Shooters
 
 - Strategy
+
+- Anything Multiplayer
 
 But I'm always open to trying new genres!
 
