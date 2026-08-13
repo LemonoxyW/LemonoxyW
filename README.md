@@ -117,8 +117,8 @@ I’ll never use AI to generate game code without careful discussion with the te
 And even then, I review every line for security issues and quality control.
 
 # Contact
-You can reach me on Instagram:
- - https://www.instagram.com/callum.morrice/?hl=en
+You can reach me on Instagram (preferable):
+ - https://www.instagram.com/callum.morrice
 
 or my email:
 - Lemonpez123@gmail.com
